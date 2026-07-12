@@ -83,14 +83,14 @@ currently: Building projects across computer vision, backend, and full stack web
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Computer Vision** | ⭐⭐⭐⭐☆ | Real-time facial analysis using OpenCV, webcam/image/video input pipelines |
-| **Emotion Recognition** | ⭐⭐⭐⭐☆ | Facial emotion classification using DeepFace and TensorFlow |
-| **Machine Learning** | ⭐⭐⭐☆☆ | Applied ML concepts through computer vision projects |
-| **Deep Learning** | ⭐⭐⭐☆☆ | TensorFlow-based model usage for emotion classification |
-| **Backend API Development** | ⭐⭐⭐⭐☆ | REST APIs, JDBC-based data access, MySQL integration |
-| **Full Stack Development** | ⭐⭐⭐⭐☆ | React and Next.js frontends connected to backend services |
+| Domain | Details |
+|---|---|
+| Computer Vision | Real-time facial analysis using OpenCV, webcam, image, and video processing pipelines |
+| Emotion Recognition | Facial emotion classification using DeepFace and TensorFlow |
+| Machine Learning | Applied machine learning concepts through computer vision projects |
+| Deep Learning | TensorFlow-based emotion classification and inference |
+| Backend Development | REST APIs, JDBC, database integration, and backend application development |
+| Full Stack Development | React, Next.js, FastAPI, responsive UI development, and API integration |
 
 </div>
 
