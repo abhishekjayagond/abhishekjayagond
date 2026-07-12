@@ -222,51 +222,6 @@ Hands-on software engineering experience gained through academic and personal pr
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekjayagond&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjayagond&theme=radical&hide_border=true&background=0d0221&stroke=6a0dad&ring=8a2be2&fire=a78bfa&currStreakLabel=e0d4ff"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjayagond&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e0d4ff"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekjayagond&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekjayagond&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8a2be2&point=e0d4ff"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhishekjayagond/abhishekjayagond/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
