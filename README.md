@@ -31,13 +31,13 @@
 
 ---
 
-## 🧬 About Me
+## About
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
 I'm a **Computer Science undergraduate** with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, **Operating Systems**, and **Computer Networks**. I build software primarily in **Python and Java**, with hands-on experience across **computer vision**, **backend development**, and **web applications** using **React and Next.js**.
 
-I bring a product-oriented engineering mindset to every project — designing REST APIs, structuring clean data models, and building interfaces that are genuinely usable, not just functional.
+I bring a product-oriented approach to engineering — designing REST APIs, structuring clean data models, and building interfaces that are usable, not just functional.
 
 ```yaml
 role: Computer Science Undergraduate
@@ -46,7 +46,7 @@ mindset: Product-oriented | Fundamentals-first | Detail-driven
 currently: Building projects across computer vision, backend, and full stack web development
 ```
 
-**🎯 Open To:**
+**Open To**
 
 ![SDE](https://img.shields.io/badge/Software%20Engineer-Open-6a0dad?style=flat-square&labelColor=1a1a2e)
 ![Backend](https://img.shields.io/badge/Backend%20Developer-Open-8a2be2?style=flat-square&labelColor=1a1a2e)
@@ -55,7 +55,7 @@ currently: Building projects across computer vision, backend, and full stack web
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -79,7 +79,7 @@ currently: Building projects across computer vision, backend, and full stack web
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -96,10 +96,10 @@ currently: Building projects across computer vision, backend, and full stack web
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🧠 Emotion-Aware Virtual Interview Coach</b></summary>
+<summary><b>Emotion-Aware Virtual Interview Coach</b></summary>
 <br/>
 
 A real-time facial emotion analysis system built with OpenCV, DeepFace, and TensorFlow, supporting webcam, image, and video inputs to help users understand behavioral trends during mock interviews.
@@ -119,7 +119,7 @@ This project analyzes facial emotions in real time using OpenCV for face detecti
 </details>
 
 <details>
-<summary><b>🅿️ Smart Parking Management System</b></summary>
+<summary><b>Smart Parking Management System</b></summary>
 <br/>
 
 A Java Swing desktop application for managing parking operations end-to-end, covering slot allocation, vehicle tracking, billing, and ticketing.
@@ -139,7 +139,7 @@ Built as a Java Swing desktop application backed by a normalized MySQL schema, t
 </details>
 
 <details>
-<summary><b>💼 Developer Portfolio</b></summary>
+<summary><b>Developer Portfolio</b></summary>
 <br/>
 
 A responsive personal portfolio built with React, Next.js, and Tailwind CSS, deployed on Vercel with an automated GitHub-based deployment workflow.
@@ -160,7 +160,7 @@ Developed using React, Next.js, and Tailwind CSS with a focus on responsive desi
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Engineering Projects** — *Computer Science Undergraduate*
 `Nov 2025 — Present`
@@ -176,22 +176,22 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏅 **Computer Vision Project** | Emotion-Aware Virtual Interview Coach using OpenCV, DeepFace & TensorFlow |
-| 🅿️ **Desktop Application** | Smart Parking Management System built with Java Swing, MySQL & JDBC |
-| 💼 **Web Development** | Responsive developer portfolio built and deployed with React, Next.js & Vercel |
-| 📚 **Strong CS Fundamentals** | Data Structures & Algorithms, OOP, Operating Systems, Computer Networks |
+| **Computer Vision Project** | Emotion-Aware Virtual Interview Coach using OpenCV, DeepFace & TensorFlow |
+| **Desktop Application** | Smart Parking Management System built with Java Swing, MySQL & JDBC |
+| **Web Development** | Responsive developer portfolio built and deployed with React, Next.js & Vercel |
+| **Strong CS Fundamentals** | Data Structures & Algorithms, OOP, Operating Systems, Computer Networks |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 **Cisco Networking Academy**
 
@@ -213,7 +213,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -223,7 +223,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -248,7 +248,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -258,7 +258,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -268,7 +268,7 @@ Hands-on engineering experience gained through independent projects spanning com
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -293,7 +293,7 @@ open_to:
 
 ---
 
-## 📬 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -307,8 +307,6 @@ open_to:
 ---
 
 <div align="center">
-
-*"Build systems that think, scale, and last."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:6a0dad,100:1a1a2e&height=150&section=footer"/>
 
