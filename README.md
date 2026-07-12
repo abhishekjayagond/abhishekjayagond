@@ -162,15 +162,14 @@ Developed using React, Next.js, and Tailwind CSS with a focus on responsive desi
 
 ## Experience
 
-**Engineering Projects** — *Computer Science Undergraduate*
-`Nov 2025 — Present`
+**Engineering Projects — Computer Science Undergraduate**
 
-Hands-on engineering experience gained through independent projects spanning computer vision, desktop application development, and full stack web development.
+Hands-on software engineering experience gained through academic and personal projects spanning computer vision, desktop application development, backend systems, and full stack web development.
 
 - Built a real-time facial emotion analysis system using OpenCV, DeepFace, and TensorFlow with CSV logging and Matplotlib visualization
-- Developed a Java Swing desktop application for parking management with a normalized MySQL schema and JDBC-based data access
-- Built and deployed a responsive developer portfolio using React, Next.js, and Tailwind CSS on Vercel
-- Applied strong fundamentals in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, and Computer Networks throughout coursework and projects
+- Developed a Java Swing desktop application for parking management using MySQL and JDBC
+- Designed and deployed a responsive portfolio using React, Next.js, Tailwind CSS, and Vercel
+- Applied core computer science concepts including Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, and Computer Networks across projects
 
 `Python` `Java` `React` `Next.js` `MySQL` `JDBC` `OpenCV` `TensorFlow`
 
